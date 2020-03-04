@@ -4213,10 +4213,9 @@
 			};
 			buildConfigurationList = F094A99D1B78D8F000B1FBBF /* Build configuration list for PBXProject "Riot" */;
 			compatibilityVersion = "Xcode 9.3";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
-				English,
 				en,
 				Base,
 				nl,

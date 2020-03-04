@@ -14,6 +14,10 @@ It is based on MatrixKit (https://github.com/matrix-org/matrix-ios-kit) and Matr
 
 You can build the app from source as per below:
 
+HPI Schul-Cloud
+===============
+When we move forward building a custom app we can get inspired here: https://github.com/vector-im/riot-ios/compare/develop...Awesome-Technologies:Caritas
+
 Build instructions
 ==================
 
